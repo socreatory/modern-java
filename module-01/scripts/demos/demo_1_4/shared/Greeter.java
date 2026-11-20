@@ -1,0 +1,7 @@
+package shared;
+
+public class Greeter {
+    public static String greet(String name) {
+        return "Hallo, " + name + "!";
+    }
+}

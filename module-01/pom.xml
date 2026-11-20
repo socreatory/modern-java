@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.socreatory.bettercode2026</groupId>
+        <artifactId>bettercode-2026</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>module-01</artifactId>
+
+    <!--
+        Übung 1.1 und die Demos zu Teil 1 und 2 arbeiten mit Compact Source Files. Diese passen
+        nicht ins Maven-Standard-Layout (keine Package-Deklaration, keine Klassen-Klammer) und
+        liegen daher unter scripts/exercise_1_1, scripts/solutions/solution_1_1 und
+        scripts/demos. Sie werden nicht von Maven, sondern direkt vom java-Launcher ausgeführt.
+    -->
+</project>
